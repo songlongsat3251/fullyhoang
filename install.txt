@@ -1,0 +1,18 @@
+npm i colors
+npm i request
+pip install pysocks
+sudo apt-get install dialog
+y
+sudo apt install -y chromium-browser
+y
+npx playwright install-deps
+y
+npm i playwright
+y
+chmod +777 ./fixedtls
+y
+npx playwright install-deps
+y
+
+
+
